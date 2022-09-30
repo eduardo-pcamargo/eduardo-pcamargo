@@ -3,7 +3,7 @@
 - 🧑‍🔬 🥼 🧪 I'm a *Chemical Engineering Bachelor*
 - 🎓 💻 Undergraduate in *System Analysis and Develpoment*
 - 📚 I’m currently learning <b>Python</b> and <b>R</b> for *Data Analysis*
-- <img align="center" height="25" width="25" src="https://user-images.githubusercontent.com/86980326/162636279-3fdd75fb-34ad-4277-95fb-e30b9bca600b.png">&nbsp; <B>STAR WARS</B> <img align="center" height="25" width="25" src="https://user-images.githubusercontent.com/86980326/162636327-b17618ba-5cc9-40bf-8c5e-bbe6dc0b1dd4.png">
+- <img align="center" height="25" width="25" src="https://user-images.githubusercontent.com/86980326/162636279-3fdd75fb-34ad-4277-95fb-e30b9bca600b.png">&nbsp; <B>STAR WARS Fan</B> <img align="center" height="25" width="25" src="https://user-images.githubusercontent.com/86980326/162636327-b17618ba-5cc9-40bf-8c5e-bbe6dc0b1dd4.png">
 
 ##
 <br>
